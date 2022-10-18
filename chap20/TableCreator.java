@@ -1,3 +1,5 @@
+import java.util.Collection;
+
 /**
  * @author 糖小样的皮卡丘
  */
