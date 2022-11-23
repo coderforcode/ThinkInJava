@@ -6,7 +6,6 @@ class Solution {
         System.out.println(s);
         List<Integer> list = new ArrayList<>();
         Map<String, String> map = new HashMap<>();
-        map.put()
         Integer[] array =new Integer[list.size()];
         int[] ints = new int[]{2};
         list.toArray(array); // fill the array
